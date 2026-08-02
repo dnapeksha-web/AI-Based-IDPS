@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Files
+.env
+
+# Logs
+logs/
+*.log
+
+# Machine Learning Models
+models/*.pkl
+models/*.joblib
+
+# Dataset Files
+data/*.csv
+data/*.pcap
+
+# IDE Files
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
